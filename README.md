@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning GANs and UNets
 - 👯 I’m looking to work on EMG and EEG signals.
 
+
