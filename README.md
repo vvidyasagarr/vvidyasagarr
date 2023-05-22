@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=vvidyasagarr)
 
 - 🔭 I’m currently working on Classification sEMG signals using Machine Learning and Deep Learning Tools.
 - 🌱 I’m currently learning on  NLP
