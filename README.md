@@ -6,3 +6,8 @@
 - 👯 I’m looking to work on EMG and EEG signals.
 
 
+
+
+
+
+[![VidyaSagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidyasagarr)](https://github.com/anuraghazra/github-readme-stats)
