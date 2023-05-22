@@ -10,4 +10,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvidyasagarr &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= vvidyasagarr &theme=radical)
