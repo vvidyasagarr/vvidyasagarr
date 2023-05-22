@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /><img height=50                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain-wordmark.svg" />
 
-
+Connect with Me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidya-sagar-reddy-venna-59a387240/)  
       
         
