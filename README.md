@@ -4,7 +4,7 @@
 - 🌱 I am passionate about Machine Learning, Computer Vision, and Natural Language Processing. I actively engage in applying machine learning and deep learning techniques to analyze Bio-signals.
  
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidyasagarr&theme=highcontrast&show_icons=true)
 
