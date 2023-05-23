@@ -1,8 +1,8 @@
 ### Hi there, I'm Vidya Sagar 👋
 ---------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on Classification sEMG signals using Machine Learning and Deep Learning Tools.
-- 🌱 I’m currently learning on  NLP
-- 👯 I’m looking to work on EMG and EEG signals.
+- 🌱 I am passionate about Machine Learning, Computer Vision, and Natural Language Processing. I actively engage in applying machine learning and deep learning techniques to analyze Bio-signals.
+ 
 
 
 
